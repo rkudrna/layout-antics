@@ -1,0 +1,52 @@
+/*---SHAPES--------------*/
+/*------------------------------------------------*/
+.profile {
+  border-radius: 5px;
+  height: 100px;
+  margin-bottom: 15px;
+}
+
+.infoBox {
+  border-radius: 5px;
+  height: 200px;
+  margin-bottom: 15px;
+}
+
+/*---COLORS--------------*/
+/*------------------------------------------------*/
+/*page background*/
+.color1 {
+  background-color:#dcd6c0;
+}
+
+/*content background*/
+.color2 {
+  background-color: #cabb94;
+}
+
+/*profile backgrounds*/
+.color3 {
+  background-color: #afb673;
+}
+
+.color4,
+.color2:hover,
+.color3:hover {
+  background-color: #9d8d5a;
+}
+
+/*header, footer*/
+.color5 {
+  background-color: #524D70;
+}
+
+/*text: header, footer*/
+.color6,
+.lightText {
+ color: #fffdee;
+ font-family: sans-serif;
+}
+
+.darkText {
+  color: black;
+}

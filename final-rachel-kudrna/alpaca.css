@@ -1,0 +1,33 @@
+.titleBar {
+  background-color: #524D70;
+  opacity: .75;
+  height: 90px;
+  z-index: 2;
+  position: absolute;
+  top: 330px;
+  width: 100%;
+  color: #fffdee;
+  text-align: center;
+}
+
+.header__img {
+  z-index: 1;
+  position: relative;
+  display: block;
+  width: 90%;
+  margin-top: -10px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+.profile {
+  margin-top: 10px;
+  height: 200px;
+}
+
+.infoBox {
+  margin-top: 10px
+}
+
